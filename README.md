@@ -8,7 +8,7 @@ This was made for RUHacks2022 by Pratyay Banerjee, Stanley Chow, Tasfiq Jasimudd
 2. Open [chrome://extensions/](chrome://extensions/) in Google Chrome
 3. Drag & drop the 'RU-Safe' folder into the window from step 2, or click 'Load unpacked' and select the 'RU-Safe' folder
 
-> Or please refer to *01:43* of the video
+> Or please refer to *01:43* of the video https://www.youtube.com/watch?v=L0a9E_Khi-I&ab_channel=TasfiqJasimuddin
 
 
 Few spam links kept for reference :- 
