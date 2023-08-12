@@ -3,6 +3,8 @@ RU Hacks 2022 submission
 
 This was made for RUHacks2022 by Pratyay Banerjee, Stanley Chow, Tasfiq Jasimuddin and Amar Gupta.
 
+[Link to Devpost](https://devpost.com/software/r-u-safe)
+
 ## Installation
 1. Download this repository as a folder (which should be named 'RU-Safe')
 2. Open [chrome://extensions/](chrome://extensions/) in Google Chrome
